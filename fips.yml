@@ -1,0 +1,16 @@
+#
+# Fips-SPStructures
+#
+---
+imports:
+    fips-unittestpp:
+        git: https://github.com/floooh/fips-unittestpp.git
+    fips-SPStructures:
+        git: https://github.com/guymella/SPStructures.git
+exports:
+    header-dirs:
+        - src
+
+
+        
+

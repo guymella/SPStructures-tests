@@ -1,0 +1,5 @@
+fips_begin_app(Unittests cmdline)
+    fips_vs_warning_level(3)	
+    fips_files(RunStructureTests.cc)
+	fips_deps(unittestpp)
+fips_end_app()

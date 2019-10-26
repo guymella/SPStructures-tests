@@ -1,0 +1,4 @@
+---
+defines:
+    FIPS_UNITTESTS: ON
+    FIPS_UNITTESTS_HEADLESS: ON
